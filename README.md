@@ -1,1 +1,1 @@
-# JournyOfDevOps
+# JourneyOfDevOps
